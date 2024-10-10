@@ -1,0 +1,1 @@
+interface CondimentDecorator extends Beverage {}

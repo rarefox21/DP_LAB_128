@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=15d38145_002Dd432_002D40fa_002D82be_002D0c7ba7c02d19/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SetCursorPosition_ValidPosition_ShouldUpdatePosition" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::66414694-FBDF-44FA-81F7-16E61699FF58::net8.0::TextEditorTests.TextEditorTests.SetCursorPosition_ValidPosition_ShouldUpdatePosition&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ef7c5d5_002D7204_002D4776_002Dbfca_002Dd4aa948c0550/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TextEditorTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::66414694-FBDF-44FA-81F7-16E61699FF58::net8.0::TextEditorTests.TextEditorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::66414694-FBDF-44FA-81F7-16E61699FF58::net8.0::TextEditorTests.HistoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::66414694-FBDF-44FA-81F7-16E61699FF58::net8.0::TextEditorTests.FilePersistenceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

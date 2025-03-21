@@ -1,0 +1,15 @@
+D:\3.1\DP_LAB\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.exe
+D:\3.1\DP_LAB\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+D:\3.1\DP_LAB\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+D:\3.1\DP_LAB\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.dll
+D:\3.1\DP_LAB\TextEditor\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+D:\3.1\DP_LAB\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.1\DP_LAB\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+D:\3.1\DP_LAB\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+D:\3.1\DP_LAB\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\3.1\DP_LAB\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.sourcelink.json
+D:\3.1\DP_LAB\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.dll
+D:\3.1\DP_LAB\TextEditor\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+D:\3.1\DP_LAB\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+D:\3.1\DP_LAB\TextEditor\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+D:\3.1\DP_LAB\TextEditor\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll

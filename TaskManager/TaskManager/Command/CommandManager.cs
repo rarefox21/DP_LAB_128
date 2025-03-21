@@ -1,4 +1,5 @@
-﻿namespace TaskManager.Command;
+﻿//Command Manager
+namespace TaskManager.Command;
 
 public class CommandManager
 {

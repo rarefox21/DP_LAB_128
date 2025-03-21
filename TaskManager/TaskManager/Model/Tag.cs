@@ -1,4 +1,5 @@
-﻿namespace TaskManager.Model;
+﻿//Tag Model
+namespace TaskManager.Model;
 
 public class Tag
 {

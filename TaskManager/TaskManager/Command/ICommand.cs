@@ -1,4 +1,5 @@
-﻿namespace TaskManager.Command;
+﻿//Command Interface
+namespace TaskManager.Command;
 
 public interface ICommand
 {

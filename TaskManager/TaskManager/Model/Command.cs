@@ -1,4 +1,5 @@
-﻿namespace TaskManager.Model;
+﻿//Command Model
+namespace TaskManager.Model;
 
 public class Comment
 {

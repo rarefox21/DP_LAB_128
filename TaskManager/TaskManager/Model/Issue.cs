@@ -1,4 +1,5 @@
-﻿using TaskManager.ENUM;
+﻿//Issue Model
+using TaskManager.ENUM;
 using TaskManager.Log;
 
 namespace TaskManager.Model;

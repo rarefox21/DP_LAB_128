@@ -1,4 +1,5 @@
-﻿namespace TaskManager.ENUM;
+﻿//Priority Enum
+namespace TaskManager.ENUM;
 
 public enum PRIORITY
 {
